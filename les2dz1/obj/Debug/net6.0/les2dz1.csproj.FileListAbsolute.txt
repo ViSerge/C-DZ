@@ -1,0 +1,15 @@
+C:\Users\Viktoriya\Desktop\C#\les2dz1\bin\Debug\net6.0\les2dz1.exe
+C:\Users\Viktoriya\Desktop\C#\les2dz1\bin\Debug\net6.0\les2dz1.deps.json
+C:\Users\Viktoriya\Desktop\C#\les2dz1\bin\Debug\net6.0\les2dz1.runtimeconfig.json
+C:\Users\Viktoriya\Desktop\C#\les2dz1\bin\Debug\net6.0\les2dz1.dll
+C:\Users\Viktoriya\Desktop\C#\les2dz1\bin\Debug\net6.0\les2dz1.pdb
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.csproj.AssemblyReference.cache
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.AssemblyInfoInputs.cache
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.AssemblyInfo.cs
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.dll
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\refint\les2dz1.dll
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.pdb
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\les2dz1.genruntimeconfig.cache
+C:\Users\Viktoriya\Desktop\C#\les2dz1\obj\Debug\net6.0\ref\les2dz1.dll
