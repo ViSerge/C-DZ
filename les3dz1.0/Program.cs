@@ -3,10 +3,12 @@
 //12821 -> да
 //23432 -> да
 
-Console.WriteLine("Введите число: ");
-string number = Console.ReadLine();
+Console.Write("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+string number = Convert.ToString(num);
+
 int len = number.Length;
-  if (len == 5)
+if (len == 5)
 {
     if (number[0] == number[4] && number[1] == number[3])
     {
