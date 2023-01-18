@@ -9,13 +9,30 @@ Console.Write("Введите k2: ");
 var k2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите b2: ");
 var b2 = Convert.ToDouble(Console.ReadLine());
- 
+
  
 var x = -(b1 - b2) / (k1 - k2);
 var y = k1 * x + b1;
- 
-x = Math.Round(x, 3);
-y = Math.Round(y, 3);
- 
-Console.WriteLine($"Пересечение в точке: ({x};{y})");
 
+var y1 = k1 * x + b1;
+var y2 = k2 * x + b2;
+
+if (k1 / k2 == y1 / y2)
+{
+    if (k1 / k2 == b1 / b2)
+    {
+        Console.WriteLine($"Прямые y = {k1} * x + {b1} и y = {k2} * x + {b1} параллельны");
+    }
+    else
+    {
+        Console.WriteLine($"Прямые y = {k1} * x + {b1} и y = {k2} * x + {b1} совпадают");
+    }
+
+}
+else
+{
+    x = Math.Round(x, 3);
+    y = Math.Round(y, 3);
+ 
+    Console.WriteLine($"Пересечение в точке: ({x};{y})");
+}
