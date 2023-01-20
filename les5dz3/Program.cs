@@ -2,7 +2,7 @@
 //[3 7 22 2 78] -> 76
 
 Console.WriteLine("Введите размер массива :  ");
-int size = Convert.ToInt32(Console.ReadLine());
+int numbers = Convert.ToInt32(Console.ReadLine());
 //double[] numbers = new double[5] {3,7,22,2,78}; для проверки
 FillArrayRandomNumbers(numbers);
 Console.WriteLine("массив: ");
